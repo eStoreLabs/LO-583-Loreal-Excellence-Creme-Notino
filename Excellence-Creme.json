@@ -1,0 +1,858 @@
+{
+  "keys": ["loreal-paris/excellence-creme-farby-do-wlosow/p-16281661/"],
+
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Loreal Paris Excellence Cool Creme",
+  "rpc": "LOR09951",
+  "dateOnSaleFrom": null,
+  "owner": "estore",
+  "contents": [
+    {
+      "name": "Loreal Paris Excellence Cool Creme",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Excellence Cool Creme",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/KV.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Excellence Cool Creme",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "Excellence Creme <br>L'ORÉAL PARIS",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "24px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><b>Wybierz koloryzację Excellence Creme z potrójną pielęgnacją teraz wzbogaconą kwasem hialuronowym, która zadba o Twoje włosy na każdym etapie farbowania.</b></p><br><p>Innowacyjny rytuał koloryzacji Excellence dba o Twój kolor dzięki ochronnemu kremowi koloryzującemu, dba o skórę głowy dzięki pielęgnującemu szamponowi i o włosy dzięki odżywczej masce. Kolor jest bogaty i długotrwały. A włosy są lśniące, miękkie i pełne życia.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "maxWidth": "400px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "element": "img",
+                "alt": "Wybierz koloryzację",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Nowy rytuał koloryzacji <br>z pielęgnacją wzbogaconą kwasem hialuronowym <br> <span style=\"font-size:13px; text-transform:none; font-weight:normal\">POTRÓJNA PIELĘGNACJA</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "30px",
+                  "marginBottom": "50px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<p>OCHRONNY KREM KOLORYZUJĄCY <br>I KREM UTLENIAJĄCY</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<p>Ochronny krem koloryzujący jest wzbogacony składnikami pielęgnującymi, chroni włosy podczas koloryzacji dla długotrwałego koloru. A 2 razy bogatsza mieszanka koloryzacyjna4 nie spływa z włosów, co ułatwia aplikację. </p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-03-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "<p>PIELĘGNUJĄCY ŁAGODNY <br>SZAMPON</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<p>Wzbogacony jest kwasem hialuronowym, nawilża i delikatnie oczyszcza skórę głowy i włosy z zanieczyszczeń, podkreślając ich piękny, naturalnie wyglądający kolor.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-03-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "<p>ODŻYWCZA MASKA</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<p>Jest wzbogacona kwasem hialuronowym, zamyka nawilżenie we włosach dla odżywionych i miękkich włosów.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-03-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Do 100% pokrycia siwych włosów<sup>1</sup><br><span style=\"font-size:13px; text-transform:none; font-weight:normal;text-transform:uppercase\">PRAWDZIWE REZULTATY - BEZ RETUSZU</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "30px",
+                  "marginBottom": "50px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04-mobile.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Excellence Cool Creme",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Excellence Cool Creme",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "PIELĘGNACJA PO KOLORYZACJI <br>EXCELLENCE CREME WZBOGACONA KWASEM<br> HIALURONOWYM ",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "18px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p><b style=\"font-size:25px; text-transform:uppercase\">kwas hialuronow</b></p><br><p>ma zdolność do zatrzymania 1000 krotności swojej wagi w wodzie, dzięki czemu włosy są nawilżone, a kolor bogatszy</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "16px",
+                  "fontWeight": "normal",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "normal",
+                  "margin-top": "30px",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-05.jpg",
+                "element": "img",
+                "alt": "Kwas hialuronow",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Jak farbować włosy w&nbsp;domu?<br><span style=\"font-size:13px; text-transform:none; font-weight:normal;text-transform:uppercase\">APLIKACJA KROK PO KROKU</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "26px",
+                  "fontWeight": "bold",
+                  "textTransform": "normal",
+                  "color": "#000",
+                  "marginTop": "30px",
+                  "marginBottom": "50px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Krok 1",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<p>Zmieszaj ochronny krem koloryzujący i krem utleniający.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-06-A.jpg",
+                "element": "img",
+                "alt": "Krok 1",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Krok 2",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<p>Potrząśnij</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-06-B.jpg",
+                "element": "img",
+                "alt": "Krok 2",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Krok 3",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<p>Nałóż najpierw na odrosty, potem na długość.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-06-C.jpg",
+                "element": "img",
+                "alt": "Krok 3",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Krok 4",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<p>Poczekaj 30 minut i spłucz.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "http://localhost:8000/images/MOD-07-A.jpg",
+                "element": "img",
+                "alt": "Krok 4",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Krok 5",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<p>Potrząśnij</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "http://localhost:8000/images/MOD-07-B.jpg",
+                "element": "img",
+                "alt": "Krok 5",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Krok 6",
+                "element": "DangerHtml",
+                "properties": {
+                  "marginTop": "0",
+                  "marginBottom": "0",
+                  "fontSize": "1.1rem",
+                  "fontWeight": "bold",
+                  "textAlign": "center",
+                  "textTransform": "uppercase",
+                  "color": "#404040"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<p>Nałóż maskę i spłucz po 3 minutach.</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "15px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "http://localhost:8000/images/MOD-07-C.jpg",
+                "element": "img",
+                "alt": "Krok 6",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "32px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "WAŻNE: Kolor mieszanki wygląda inaczej niż wcześniej, ale rezultat koloryzacji pozostaje ten sam, dopóki mieszanka nie zostanie spłukana przed upływem 30 minut.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "18px",
+                  "fontWeight": "normal",
+                  "textTransform": "none",
+                  "color": "#d4025d",
+                  "marginTop": "30px",
+                  "marginBottom": "50px",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": { "text-align": "center" }
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-08-mobile.jpg",
+                "element": "img",
+                "alt": "Loreal Paris Excellence Cool Creme",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-08.jpg",
+                "element": "img",
+                "alt": "Koloryzacja",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "embeddedVideo",
+            "data": [
+              {
+                "name": "embeddedVideoId",
+                "value": "CcqeAErnsEU",
+                "element": "iframe"
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-09-mobile.jpg",
+                "element": "img",
+                "alt": "Do wszystkich rodzajów włosów",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "0px",
+              "marginBottom": "0px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-09.jpg",
+                "element": "img",
+                "alt": "Do wszystkich rodzajów włosów",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "30px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "Siwe włosy <br><span style=\"font-weight: normal\">pomiędzy koloryzacjami?</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "bold",
+                  "color": "#000",
+                  "textAlign": "left",
+                  "fontStyle": "normal",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px",
+                  "lineHeight": "1",
+                  "marginTop": "30px",
+                  "maxWidth": "100%"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<p>Użyj Magic Retouch!</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "30px",
+                  "fontWeight": "bold",
+                  "color": "#000000",
+                  "text-align": "left",
+                  "fontStyle": "bold",
+                  "margin-top": "30px",
+                  "textTransform": "uppercase",
+                  "padding": "0 16px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "http://localhost:8000/images/MOD-10.jpg",
+                "element": "img",
+                "alt": "Kwas hialuronow",
+                "properties": []
+              }
+            ],
+            "properties": {
+              "marginTop": "30px",
+              "marginBottom": "16px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontFamily": "Roboto",
+                  "fontSize": "20px",
+                  "fontWeight": "bold",
+                  "textTransform": "uppercase",
+                  "color": "#000",
+                  "text-align": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">1</sup> Test instrumentalny.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">2</sup> Szampon i maska w zestawie Excellence Creme.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">3</sup>Test instrumentalny po zastosowaniu pełnego zestawu Excellence.</p><p style=\"font-size:11px;margin-bottom: 3px\"><sup style=\"font-size:10px\">4</sup> W porównianiu z naszym poprzednim zestawem kremu koloryzacyjnego i utleniacza, test lepkości przeprowadzony metodą instrumentalną. </p></div>",
+                "element": "DangerHtml",
+                "properties": {}
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
