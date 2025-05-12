@@ -19,7 +19,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV-mobile.jpg",
+                "value": "./KV-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -41,7 +41,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/KV.jpg",
+                "value": "./KV.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -97,7 +97,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-02.jpg",
+                "value": "./MOD-02.jpg",
                 "element": "img",
                 "alt": "Wybierz koloryzację",
                 "properties": []
@@ -161,7 +161,7 @@
                   "fontSize": "1.1rem",
                   "fontWeight": "bold",
                   "textAlign": "center",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -175,7 +175,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-03-A.jpg",
+                "value": "./MOD-03-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -190,7 +190,7 @@
                   "fontSize": "1.1rem",
                   "fontWeight": "bold",
                   "textAlign": "center",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -204,7 +204,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-03-B.jpg",
+                "value": "./MOD-03-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -219,7 +219,7 @@
                   "fontSize": "1.1rem",
                   "fontWeight": "bold",
                   "textAlign": "center",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -233,7 +233,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-03-C.jpg",
+                "value": "./MOD-03-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -287,7 +287,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-04-mobile.jpg",
+                "value": "./MOD-04-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -309,7 +309,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-04.jpg",
+                "value": "./MOD-04.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -365,7 +365,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-05.jpg",
+                "value": "./MOD-05.jpg",
                 "element": "img",
                 "alt": "Kwas hialuronow",
                 "properties": []
@@ -430,7 +430,7 @@
                   "fontWeight": "bold",
                   "textAlign": "center",
                   "textTransform": "uppercase",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -444,7 +444,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-06-A.jpg",
+                "value": "./MOD-06-A.jpg",
                 "element": "img",
                 "alt": "Krok 1",
                 "properties": {}
@@ -460,7 +460,7 @@
                   "fontWeight": "bold",
                   "textAlign": "center",
                   "textTransform": "uppercase",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -474,7 +474,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-06-B.jpg",
+                "value": "./MOD-06-B.jpg",
                 "element": "img",
                 "alt": "Krok 2",
                 "properties": {}
@@ -490,7 +490,7 @@
                   "fontWeight": "bold",
                   "textAlign": "center",
                   "textTransform": "uppercase",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -504,7 +504,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-06-C.jpg",
+                "value": "./MOD-06-C.jpg",
                 "element": "img",
                 "alt": "Krok 3",
                 "properties": {}
@@ -535,7 +535,7 @@
                   "fontWeight": "bold",
                   "textAlign": "center",
                   "textTransform": "uppercase",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -549,7 +549,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "http://localhost:8000/images/MOD-07-A.jpg",
+                "value": "./MOD-07-A.jpg",
                 "element": "img",
                 "alt": "Krok 4",
                 "properties": {}
@@ -565,7 +565,7 @@
                   "fontWeight": "bold",
                   "textAlign": "center",
                   "textTransform": "uppercase",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -579,7 +579,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "http://localhost:8000/images/MOD-07-B.jpg",
+                "value": "./MOD-07-B.jpg",
                 "element": "img",
                 "alt": "Krok 5",
                 "properties": {}
@@ -595,7 +595,7 @@
                   "fontWeight": "bold",
                   "textAlign": "center",
                   "textTransform": "uppercase",
-                  "color": "#404040"
+                  "color": "#111111"
                 }
               },
               {
@@ -609,7 +609,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "http://localhost:8000/images/MOD-07-C.jpg",
+                "value": "./MOD-07-C.jpg",
                 "element": "img",
                 "alt": "Krok 6",
                 "properties": {}
@@ -663,7 +663,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-08-mobile.jpg",
+                "value": "./MOD-08-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -685,7 +685,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-08.jpg",
+                "value": "./MOD-08.jpg",
                 "element": "img",
                 "alt": "Koloryzacja",
                 "properties": []
@@ -724,7 +724,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-09-mobile.jpg",
+                "value": "./MOD-09-mobile.jpg",
                 "element": "img",
                 "alt": "Do wszystkich rodzajów włosów",
                 "properties": []
@@ -746,7 +746,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-09.jpg",
+                "value": "./MOD-09.jpg",
                 "element": "img",
                 "alt": "Do wszystkich rodzajów włosów",
                 "properties": []
@@ -803,7 +803,7 @@
               },
               {
                 "name": "asset",
-                "value": "http://localhost:8000/images/MOD-10.jpg",
+                "value": "./MOD-10.jpg",
                 "element": "img",
                 "alt": "Kwas hialuronow",
                 "properties": []
