@@ -177,7 +177,7 @@
                 "name": "columnOneAsset",
                 "value": "./MOD-03-A.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "OCHRONNY KREM",
                 "properties": {}
               },
               {
@@ -206,7 +206,7 @@
                 "name": "columnTwoAsset",
                 "value": "./MOD-03-B.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "SZAMPON",
                 "properties": {}
               },
               {
@@ -235,7 +235,7 @@
                 "name": "columnThreeAsset",
                 "value": "./MOD-03-C.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "MASKA",
                 "properties": {}
               }
             ],
