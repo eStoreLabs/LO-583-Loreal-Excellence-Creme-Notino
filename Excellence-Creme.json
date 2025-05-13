@@ -19,7 +19,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -41,7 +41,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -97,9 +97,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "Excellence Creme",
                 "properties": []
               }
             ],
@@ -175,7 +175,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-03-A.jpg",
+                "value": "MOD-03-A.jpg",
                 "element": "img",
                 "alt": "OCHRONNY KREM",
                 "properties": {}
@@ -204,7 +204,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-03-B.jpg",
+                "value": "MOD-03-B.jpg",
                 "element": "img",
                 "alt": "SZAMPON",
                 "properties": {}
@@ -233,7 +233,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-03-C.jpg",
+                "value": "MOD-03-C.jpg",
                 "element": "img",
                 "alt": "MASKA",
                 "properties": {}
@@ -287,7 +287,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-04-mobile.jpg",
+                "value": "MOD-04-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -309,7 +309,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-04.jpg",
+                "value": "MOD-04.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -365,7 +365,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-05.jpg",
+                "value": "MOD-05.jpg",
                 "element": "img",
                 "alt": "Kwas hialuronow",
                 "properties": []
@@ -444,7 +444,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-06-A.jpg",
+                "value": "MOD-06-A.jpg",
                 "element": "img",
                 "alt": "Krok 1",
                 "properties": {}
@@ -474,7 +474,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-06-B.jpg",
+                "value": "MOD-06-B.jpg",
                 "element": "img",
                 "alt": "Krok 2",
                 "properties": {}
@@ -504,7 +504,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-06-C.jpg",
+                "value": "MOD-06-C.jpg",
                 "element": "img",
                 "alt": "Krok 3",
                 "properties": {}
@@ -549,7 +549,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-07-A.jpg",
+                "value": "MOD-07-A.jpg",
                 "element": "img",
                 "alt": "Krok 4",
                 "properties": {}
@@ -579,7 +579,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-07-B.jpg",
+                "value": "MOD-07-B.jpg",
                 "element": "img",
                 "alt": "Krok 5",
                 "properties": {}
@@ -609,7 +609,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-07-C.jpg",
+                "value": "MOD-07-C.jpg",
                 "element": "img",
                 "alt": "Krok 6",
                 "properties": {}
@@ -663,7 +663,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-08-mobile.jpg",
+                "value": "MOD-08-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Excellence Cool Creme",
                 "properties": []
@@ -685,7 +685,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-08.jpg",
+                "value": "MOD-08.jpg",
                 "element": "img",
                 "alt": "Koloryzacja",
                 "properties": []
@@ -724,7 +724,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-09-mobile.jpg",
+                "value": "MOD-09-mobile.jpg",
                 "element": "img",
                 "alt": "Do wszystkich rodzajów włosów",
                 "properties": []
@@ -746,7 +746,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-09.jpg",
+                "value": "MOD-09.jpg",
                 "element": "img",
                 "alt": "Do wszystkich rodzajów włosów",
                 "properties": []
@@ -803,9 +803,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-10.jpg",
+                "value": "MOD-10.jpg",
                 "element": "img",
-                "alt": "Kwas hialuronow",
+                "alt": "Użyj Magic Retouch",
                 "properties": []
               }
             ],
